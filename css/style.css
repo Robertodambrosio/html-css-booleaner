@@ -79,3 +79,23 @@ body {
     background-color: yellow;
 }
 
+.tabella {
+    width:100%;
+    display: inline;
+    font-weight: bold;
+    border-style: none;
+}
+
+.tablehead {
+    color:white;
+    background-color: rgb(57, 153, 243);
+    text-align: left;
+}
+
+.col3 {
+    width: 50%;
+}
+
+.bgceleste {
+    background-color: lightblue;
+}
