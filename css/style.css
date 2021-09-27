@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Koh Santepheap', cursive;
     margin: 0 auto;
 }
 
@@ -18,3 +18,30 @@ body {
 }
 
 /* fine header */
+
+/* sezione1 main */
+
+.container {
+    width: 80%;
+    margin-left: 10px;
+}
+
+.main-title {    
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.second-title {
+    color: gray;
+    font-weight: bold;
+}
+
+.parolablu {
+    color: rgb(57, 153, 243);
+}
+
+.paragrafopiccolo {
+    font-weight: lighter;
+    font-size: 13px;
+}
